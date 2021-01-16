@@ -5,5 +5,27 @@
         "code":"1345",
         "codeSecurity":"151194"
         }
-    ]
+    ],
+    "esign" : {
+         "signatoryRequest" : {
+            "list" : {
+                    "entitiesVO": [
+                        {
+                            "id": 0,
+                            "label": null,
+                            "processId": "e21aadb5-57dd-11eb-a274-1a1566f40357",
+                            "taskId": "01e911f5-57de-11eb-a274-1a1566f40357",
+                            "numbreDocument": "2",
+                            "subject": "Document a signes",
+                            "dateRequest": "12/01/2020",
+                            "status": "enAttente",
+                            "dateLastSignature": "",
+                            "accessDate": "2021-01-19 10:34:13",
+                            "accessNumber": 24
+                        }
+                    ]
+
+            }
+         }
+    }
 }
