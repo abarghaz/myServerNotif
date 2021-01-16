@@ -12,7 +12,7 @@
                     "entitiesVO": [
                         {
                             "id": 0,
-                            "label": null,
+                            "label": "label",
                             "processId": "e21aadb5-57dd-11eb-a274-1a1566f40357",
                             "taskId": "01e911f5-57de-11eb-a274-1a1566f40357",
                             "numbreDocument": "2",
